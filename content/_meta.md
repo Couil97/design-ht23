@@ -1,11 +1,8 @@
 ---
-Logo: image/leaf_256x256.png
+Logo: image/House.png?w=100
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Länk till mitt github
+      url: https://github.com/Couil97/design-ht23
       icon: github
-    - title: Twitters twitter
-      url: https://twitter.com/X
-      icon: fab fa-twitter
 ---
