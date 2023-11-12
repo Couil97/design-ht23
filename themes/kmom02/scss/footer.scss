@@ -1,0 +1,23 @@
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: $small-padding;
+    background-color: $dark-background;
+    color: $dark-color !important;
+
+    .fa {
+        color: $dark-color !important;
+    }
+
+    a {
+        color: $dark-color !important;
+    }
+
+    .social {
+        font-size: 2rem;
+    }   
+}

@@ -1,0 +1,35 @@
+/* Variables */
+
+$main-font: 'Montserrat', sans-serif;
+$header-font: 'Roboto Mono', monospace;
+
+$light-color: #333;
+$light-background: rgb(255,255,255);
+
+$dark-color: rgba(255,255,255,0.88);
+$dark-background: #121212;
+
+$base-line-height: 1.4;
+
+$base-padding: 3em;
+$base-margin: 3em;
+
+$site-padding: 10%;
+
+$small-padding: 1em;
+$small-margin: 1em;
+
+@mixin element-padding {
+    padding: $base-padding;
+    padding-bottom: 0;
+}
+
+@mixin element-padding-small {
+    padding: $small-padding;
+    padding-bottom: 0;
+}
+
+@mixin header-display {
+    display: flex;
+    justify-content: space-between;
+};

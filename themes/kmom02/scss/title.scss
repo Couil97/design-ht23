@@ -1,0 +1,31 @@
+/* Title */
+
+.title {
+    @include element-padding;
+
+    * {
+        color: $light-color;
+    }
+
+    p {
+        font-style: italic;
+    }
+}
+
+.logo {
+    @include element-padding-small;
+}
+
+@media (max-width: 767px) {
+    .title, .logo {
+        @include element-padding-small;
+    }
+
+    .title {
+        min-width: 50%;
+    }
+    
+    .logo {
+        max-width: 30%;
+    }
+}

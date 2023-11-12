@@ -1,0 +1,11 @@
+/* Header */
+
+.header {
+    padding: 0 10%;
+    @include header-display;
+
+    .site-header {
+        align-items: center;
+        @include header-display;
+    }
+}

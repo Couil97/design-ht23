@@ -1,0 +1,32 @@
+/* Test */
+
+.element1 {
+    width:600px;
+    height:100px;
+    background: black;
+    box-sizing:content-box;
+    color: white;
+}
+
+.element2 {
+    width:100%;
+    height:100px;
+    background: blue;
+    box-sizing:content-box;
+    color: white;
+}
+
+.element3 {
+    width:50vw;
+    height:100px;
+    background: red;
+    box-sizing:border-box;
+    color: white;
+}
+
+.element4 {
+    width:100vw;
+    height:100px;
+    background: green;
+    color: white;
+}
