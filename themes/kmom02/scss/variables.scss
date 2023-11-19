@@ -19,6 +19,8 @@ $site-padding: 10%;
 $small-padding: 1em;
 $small-margin: 1em;
 
+$base-box-height: 200px;
+
 @mixin element-padding {
     padding: $base-padding;
     padding-bottom: 0;
@@ -32,4 +34,4 @@ $small-margin: 1em;
 @mixin header-display {
     display: flex;
     justify-content: space-between;
-};
+}

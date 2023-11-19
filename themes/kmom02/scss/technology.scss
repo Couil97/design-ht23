@@ -1,0 +1,36 @@
+.technology-layout {
+    display: grid;
+    gap: $base-margin;
+    grid-template-columns: repeat(10, 1fr);
+    margin: $base-margin 0;
+
+    .technology-sidebar {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start; 
+        border-right: 1px solid rgb(0,0,0);
+        overflow: hidden;
+        grid-column: span 2;
+
+        h2 {
+            text-align: center;
+            width: 100%;
+            border-bottom: 1px solid rgb(0,0,0);
+        }
+    }
+
+    .technology-content {
+        grid-column: span 8;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .technology-layout {
+        display: block;
+
+        .technology-sidebar {
+            display: none;
+        }
+    }
+}
