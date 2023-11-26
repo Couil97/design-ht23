@@ -25,7 +25,9 @@ Resultat
 ### Microsoft
 
 Microsoft använder sig av blå nyanser samt även en orange sekundärfärg. Primärfärgen som används är en väldigt mörk blå. Denna kan man se i deras header bild samt även i deras logo. Sekundär färgen är en
-kontrasterande orange som används i bilder längre ner på sidan. Paragrafer som de vill att användaren ska märka är färglagda i en ljusare blå.
+kontrasterande orange som används i bilder längre ner på sidan. Paragrafer som de vill att användaren ska märka är färglagda i en ljusare blå. 
+
+Typsnittet är den samma för all text inom webbplatsen, "Segoe UI". Webbplatsen försöker enligt min åsikt att utspela sig som en väldigt professionell webbsidan, vilket jag tycker de har åstadkommit.
 
 Färgschema: Komplementär
 
@@ -38,9 +40,13 @@ Färgschema: Komplementär
     </tr>
 </table>
 
+<img src="../image/microsoft.png?w=100%">
+
 ### Linux
 
 Liksom Microsoft använder sig även Linux av ett komplementärt färgschema. Linux har en ljusare blå som primärfärg och en orange som sekundärfärg. De blåa färgerna används för viktigare objekt t.ex. header, footer och rubriker medans den orangea färgen används för sekundära knappar. Linux gav även användarna möjligheten att byta till ett dark mode.
+
+Liksom Microsoft använder sig Linux av samma typsnitt inom hela webbplatsen, "Segoe UI". Linux överlag har alltid varit ett "super user" operativsystem och enligt min åsikt avspeglar webbplatsen denna åsyn.
 
 Färgschema: Komplementär
 
@@ -53,11 +59,15 @@ Färgschema: Komplementär
     </tr>
 </table>
 
+<img src="../image/linux.png?w=100%">
 
 ### Apple
 
 Apple använder sig även dom av ett komplementärt blå-orange färgschema. Även fast de för det mesta endast använde sig utav svarta och vita nyanser i webbsidan, hade de även en blå primärfärg och en orange sekundärfärg.
 Sekundärfärgen användes för att visa underrubriker samt rabatter och information som kan vara bra att veta och primärfärgen användes för att visa att någonting var klickbart. Bakgrunden var vit med svarta nyanser beroende på djup.
+
+Precis som de andra använder även Apple endast ett typsnitt, "SF Pro Text". Webbsidan har ett större fokus på bilder och minimalism vilket ger uttrycket att detta är en webbsida för sådanna personer som söker premium varor. Apple har alltid försökt att utrycka sig som ett premium märke, vilket jag tycker sidan har lyckas med.
+
 Färgschema: Komplementär
 
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -68,6 +78,8 @@ Färgschema: Komplementär
         <td style="height: 50px; width: 50px; background-color: #6E6E73 !important">
     </tr>
 </table>
+
+<img src="../image/apple.png?w=100%">
 
 Analys
 -----------------------
