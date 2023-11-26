@@ -1,11 +1,22 @@
 /* Header */
 
 .header {
-    padding: 0 10%;
+    @include main-body-contrast;
+
+    * {
+        background-color: rgba(0,0,0,0);
+    }
+
+    margin: 0 $site-margin;
+    padding: 0 $small-padding;
     @include header-display;
 
     .site-header {
         align-items: center;
         @include header-display;
+    }
+
+    .site-header img {
+        filter: $logo-filter;
     }
 }

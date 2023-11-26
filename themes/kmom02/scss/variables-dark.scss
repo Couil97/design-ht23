@@ -3,15 +3,15 @@
 $main-font: 'Montserrat', sans-serif;
 $header-font: 'Roboto Mono', monospace;
 
-$light-color: #333;
-$light-background: rgb(255,255,255);
+$light-color: rgba(255,255,255,1);
+$light-background: #121212;
 
 $dark-color: rgba(255,255,255,1);
-$dark-background: #121212;
-$background-add: rgba(0,0,0,0);
+$dark-background: rgba(255,255,255,0.08);
+$background-add: rgba(255,255,255,0.04);
 
-$primary-color: #8000E0;
-$logo-filter: brightness(-1000%);
+$primary-color: #CCE100;
+$logo-filter: brightness(1000%);
 
 $base-line-height: 1.4;
 

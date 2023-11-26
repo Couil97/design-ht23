@@ -1,5 +1,13 @@
 /* Main */
 
+.main {
+    @include main-body-contrast;
+
+    * {
+        background-color: rgba(0,0,0,0) !important; 
+    }
+}
+
 .main img {
     margin: $base-margin;
     margin-right: 0;

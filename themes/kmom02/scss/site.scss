@@ -7,6 +7,9 @@
     padding: 0;
 
     text-decoration: none;
+
+    background: $light-background;
+    color: $light-color;
 }
 
 ol, ul {
@@ -23,4 +26,8 @@ html, body {
 
 html {
     line-height: $base-line-height;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: $primary-color;
 }

@@ -9,14 +9,14 @@
         flex-direction: column;
         justify-content: start;
         align-items: start; 
-        border-right: 1px solid rgb(0,0,0);
+        border-right: 1px solid $light-color;
         overflow: hidden;
         grid-column: span 2;
 
         h2 {
             text-align: center;
             width: 100%;
-            border-bottom: 1px solid rgb(0,0,0);
+            border-bottom: 1px solid $light-color;
         }
     }
 

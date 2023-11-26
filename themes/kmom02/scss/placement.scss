@@ -7,7 +7,8 @@ body {
 
 .main {
     flex: 1 0 auto;
-    padding: 0 $site-padding;
+    margin: 0 $site-margin;
+    padding: 0 $small-padding;
 
     img {
         float: right;

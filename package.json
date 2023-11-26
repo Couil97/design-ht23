@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.css --no-source-map",
-    "style-min": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.min.css --no-source-map --style compressed",
-    "watch": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.css --no-source-map --watch",
-    "watch-min": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.min.css --no-source-map --style compressed --watch"
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-dark": "sass themes/kmom02/scss/style-dark.scss themes/kmom02/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass themes/kmom02/scss/style-dark.scss themes/kmom02/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.css --no-source-map",
+    "style-light-min": "sass themes/kmom02/scss/style.scss themes/kmom02/css/style.min.css --no-source-map --style compressed"
   },
   "author": "",
   "license": "ISC",
