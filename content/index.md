@@ -3,7 +3,7 @@ Title: Home
 Description: My home page
 ---
 
-<img src="image/programming_despair.jpg?w=300">
+<img class="index-image" src="image/programming_despair.jpg?w=300">
 
 Om Anton
 ==========================
