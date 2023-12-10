@@ -1,5 +1,5 @@
 ---
-Logo: image/House.png?w=100
+Logo: image/House.png?h=40
 Tagline: My portfolio.
 Social:
     - title: Länk till mitt github

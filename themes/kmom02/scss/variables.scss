@@ -3,15 +3,20 @@
 $main-font: 'Montserrat', sans-serif;
 $header-font: 'Roboto Mono', monospace;
 
-$light-color: #333;
+$light-color: #121212;
+$light-muted-color: #12121280;
 $light-background: rgb(255,255,255);
 
 $dark-color: rgba(255,255,255,1);
 $dark-background: #121212;
 $background-add: rgba(0,0,0,0);
 
+$frontpage-header: url('../../../image/frontpage/city-day.webp');
+
 $primary-color: #8000E0;
-$secondary-color: #7123AD;
+$primary-muted-color: #8000E040;
+$secondary-color: #E00085;
+$link-color: #0051FF;
 
 $logo-filter: brightness(-1000%);
 
@@ -39,6 +44,7 @@ $base-box-height: 200px;
 
 @mixin header-display {
     display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 

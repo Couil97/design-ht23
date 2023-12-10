@@ -7,88 +7,88 @@ Gallery
 ==========================
 
 <div class="gallery">
-    <a class="gallery-image" href="image/gallery/Cityscape_1.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_1.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_1.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_1.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_1.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_1.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_1.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_1.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_2.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_2.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_2.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_2.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_2.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_2.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_2.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_2.webp" alt="Image of Cityscape">
         </picture>
     </a>
-        <a class="gallery-image" href="image/gallery/Cityscape_3.jpg">
+        <a class="gallery-image" href="image/gallery/Cityscape_3.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_3.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_3.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_3.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_3.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_3.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_3.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_4.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_4.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_4.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_4.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_4.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_4.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_4.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_4.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_5.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_5.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_5.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_5.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_5.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_5.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_5.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_5.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_6.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_6.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_6.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_6.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_6.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_6.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_6.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_6.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_7.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_7.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_7.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_7.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_7.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_7.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_7.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_7.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_8.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_8.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_8.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_8.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_8.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_8.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_8.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_8.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_9.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_9.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_9.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_9.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_9.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_9.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_9.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_9.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_10.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_10.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_10.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_10.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_10.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_10.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_10.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_10.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_11.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_11.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_11.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_11.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_11.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_11.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_11.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_11.webp" alt="Image of Cityscape">
         </picture>
     </a>
-    <a class="gallery-image" href="image/gallery/Cityscape_12.jpg">
+    <a class="gallery-image" href="image/gallery/Cityscape_12.webp">
         <picture>
-            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_12.jpg?q=70&width=500">
-            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_12.jpg?q=70&width=800">
-            <img src="image/gallery/Cityscape_12.jpg" alt="Image of Cityscape">
+            <source media="(min-width: 768px)" srcset="image/gallery/Cityscape_12.webp?q=70&width=400">
+            <source media="(max-width: 768px)" srcset="image/gallery/Cityscape_12.webp?q=70&width=600">
+            <img src="image/gallery/Cityscape_12.webp" alt="Image of Cityscape">
         </picture>
     </a>
 </div>

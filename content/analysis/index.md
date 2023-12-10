@@ -11,5 +11,5 @@ Template: analysis
     <a href="./analysis/02_load"><h2>KMOM05</h2></a>
 </div>
 <div class="box kmom06">
-    <a href="./analysis/03_design_principles.md"><h2>KMOM06</h2></a>
+    <a href="./analysis/03_design_principles"><h2>KMOM06</h2></a>
 </div>
